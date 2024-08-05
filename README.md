@@ -17,7 +17,7 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 
 ---Se realizaron 5370 pedidos únicos.
 
----Los pedidos con el mayor numero de articulos (14) fueron: 440, 2675, 3473, 4305, 443.
+---Los pedidos con el mayor número de artículos (14) fueron: 440, 2675, 3473, 4305, 443.
 
 ---El primer pedido se realizó el día 2023-01-01, y el último pedido se realizó el día 2023-03-31.
 
@@ -32,3 +32,4 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 ---Son 137 las ordenes que no se concluyeron, al no tener dato en precio. 
 
 ---La comida italiana es la categoría que generó más ventas.
+
